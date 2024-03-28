@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #a2cb8c;
+}
+
+.logo-container {
+    margin: 0;
+    padding: 10px;
+}
+
+#logo {
+    height: 60px; /* Adjust based on your logo's size */
+    width: auto;
+}
+
+
+header, nav, section, footer {
+    text-align: center;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer {
+    background-color: #0b0205;
+    color: #fff;
+    margin-top: 20px;
+}
